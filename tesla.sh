@@ -3,3 +3,6 @@ buea
 bamenda
 yaounde
 limbe
+douala
+baffousam
+bertoua
